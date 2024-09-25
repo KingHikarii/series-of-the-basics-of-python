@@ -1,2 +1,2 @@
 # series-of-the-basics-of-python
-The following repository is to guide the learner or user the different basic keywords and function in Python.
+The following repository is to guide the learner or user the different basic keywords and function in Python. Coding is like a sandbox, and when you discover more things abou that particular programming language, you add more things to your toolbox of creativity, and the more tools you have the more you can create, and innovate, and do things efficient. So when it comes to programming and mastering a programming language never stop learning or discovering. Be creative, that is the key.
